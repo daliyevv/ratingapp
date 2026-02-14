@@ -1,0 +1,5 @@
+{
+  "name": "Anonymous Rating (AIR)",
+  "description": "A production-ready MVP for anonymous image rating. Features 4-digit access codes, 1-100 scoring, average calculations, and a comprehensive admin panel for image and code management.",
+  "requestFramePermissions": []
+}
